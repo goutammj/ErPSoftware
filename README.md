@@ -47,8 +47,8 @@ Reporting
 
 Installation
 Prerequisites
-Python 3.8+
-
-Django 3.2+
+React
+Electron
+chartjs
 
 PostgreSQL (recommended) or SQLite
