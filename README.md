@@ -46,9 +46,7 @@ Reporting
  - Profit/loss statements
 
 Installation
-Prerequisites
-React
-Electron
-chartjs
 
-PostgreSQL (recommended) or SQLite
+ - React
+ - Electron
+ - chartjs
